@@ -1,0 +1,23 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+    margin-top: 60px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 200;
+    text-align: center;
+    
+  }
+  .strikeout {
+      text-decoration: line-through;
+  }
+  
+  h1 {
+    color: red;
+  }
+  
+  .form-control {
+    max-width: 100%;
+  }
